@@ -49,8 +49,16 @@ streamlit run pychain.py
 Sample screenshots:
 
 ![Dropdown](Images/streamlit_dropdown.png)
+
+---
+
 ![Validation](Images/streamlit_validation.png)
+
+---
+
 ![All in One](Images/streamlit_all_in_one.png)
+
+---
 
 CLI Screenshot:
 
